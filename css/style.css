@@ -3,12 +3,12 @@
 }
 
 #portfolio{
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("img/b3.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("../img/b3.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
 #contact{
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("img/contacterUs.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("../img/contacterUs.jpeg");
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -16,7 +16,7 @@
     color:white
 }
 #expertise{
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("img/expertise.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url("../img/expertise.jpeg");
 	background-size: cover;
 	background-attachment: fixed;
 }
